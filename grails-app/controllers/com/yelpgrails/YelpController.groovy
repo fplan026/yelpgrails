@@ -8,7 +8,6 @@ class YelpController {
 	def yelpSearchService
     
 	def index() {
-		render "default page"
 	}
 	
 	def search() {
